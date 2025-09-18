@@ -11,6 +11,7 @@ vim.pack.add({
 
 	-- Syntax & Treesitter
 	"https://github.com/nvim-treesitter/nvim-treesitter",
+	"https://github.com/MeanderingProgrammer/render-markdown.nvim",
 
 	-- UI & Appearance
 	"https://github.com/akinsho/bufferline.nvim",
