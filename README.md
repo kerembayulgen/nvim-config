@@ -26,20 +26,20 @@ Space is my `<Leader>` for this config.
 
 #### General Keys
 
-Toggle file tree: `<Leader>o` ("Open")
-Focus file tree: `<Leader>e` ("Expand")
-Live Grep with Telescope: `<Leader>fw` ("Find Word")
-Find files with Telescope: `<Leader>ff` ("Find File")
-Update Plugins: `<Leader>up` ("Update")
-Theme picker: `<Leader>tt` ("Theme Toggle")
-Toggle floating terminal: `<Leader>tf` ("Terminal Floating")
-Move to the buffer to the right: `<A-Right>`
-Move to the buffer to the left: `<A-Left>`
-LSP Code action: `<Leader>la` ("Language Action")
-LSP Diagnostics: `<Leader>ld` ("Language Diagnostics")
+- Toggle file tree: `<Leader>o` ("Open")
+- Focus file tree: `<Leader>e` ("Expand")
+- Live Grep with Telescope: `<Leader>fw` ("Find Word")
+- Find files with Telescope: `<Leader>ff` ("Find File")
+- Update Plugins: `<Leader>up` ("Update")
+- Theme picker: `<Leader>tt` ("Theme Toggle")
+- Toggle floating terminal: `<Leader>tf` ("Terminal Floating")
+- Move to the buffer to the right: `<A-Right>`
+- Move to the buffer to the left: `<A-Left>`
+- LSP Code action: `<Leader>la` ("Language Action")
+- LSP Diagnostics: `<Leader>ld` ("Language Diagnostics")
 
 #### Rust-Specific Keys
-Open symbol in docs.rs: `<Leader>mo` ("Mapping Open")
+- Open symbol in docs.rs: `<Leader>mo` ("Mapping Open")
 
 
 ## Plugins
