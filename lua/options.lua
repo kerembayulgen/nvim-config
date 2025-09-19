@@ -5,3 +5,8 @@ vim.opt.termguicolors = true
 vim.g.mapleader = " "
 vim.g.maplocalleader = " "
 vim.opt.completeopt = { "menu", "menuone", "noselect" }
+
+vim.cmd("noremap <Up> <Nop>")
+vim.cmd("noremap <Down> <Nop>")
+vim.cmd("noremap <Left> <Nop>")
+vim.cmd("noremap <Right> <Nop>")
