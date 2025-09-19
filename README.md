@@ -81,6 +81,7 @@ Space is my `<Leader>` for this config.
 
 + [neovim/nvim-lspconfig](https://dotfyle.com/plugins/neovim/nvim-lspconfig)
 + [mrcjkb/rustaceanvim](https://dotfyle.com/plugins/mrcjkb/rustaceanvim)
++ [pmizio/typescript-tools.nvim](https://github.com/pmizio/typescript-tools.nvim)
 ### nvim-dev
 
 + [nvim-lua/plenary.nvim](https://dotfyle.com/plugins/nvim-lua/plenary.nvim)

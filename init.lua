@@ -2,6 +2,7 @@ vim.pack.add({
 	-- LSP & Development
 	"https://github.com/mrcjkb/rustaceanvim",
 	"https://github.com/neovim/nvim-lspconfig",
+	"https://github.com/pmizio/typescript-tools.nvim",
 
 	-- Completion & Snippets
 	"https://github.com/L3MON4D3/LuaSnip",
@@ -68,3 +69,4 @@ require("Comment").setup()
 require("bufferline").setup()
 require("todo-comments").setup()
 require("dashboard").setup()
+require("typescript-tools").setup({})
