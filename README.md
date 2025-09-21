@@ -39,3 +39,43 @@ Space is my `<Leader>` for this config.
 
 #### Rust-Specific Keys
 - Open symbol in docs.rs: `<Leader>mo` ("Mapping Open")
+
+## Plugins
+
+### colorscheme
+
++ [sainnhe/everforest](https://dotfyle.com/plugins/sainnhe/everforest)
+### colorscheme-switchers
+
++ [zaldih/themery.nvim](https://dotfyle.com/plugins/zaldih/themery.nvim)
+### formatting
+
++ [stevearc/conform.nvim](https://dotfyle.com/plugins/stevearc/conform.nvim)
+### fuzzy-finder
+
++ [nvim-telescope/telescope.nvim](https://dotfyle.com/plugins/nvim-telescope/telescope.nvim)
+### lsp
+
++ [neovim/nvim-lspconfig](https://dotfyle.com/plugins/neovim/nvim-lspconfig)
++ [mrcjkb/rustaceanvim](https://dotfyle.com/plugins/mrcjkb/rustaceanvim)
+### markdown-and-latex
+
++ [MeanderingProgrammer/render-markdown.nvim](https://dotfyle.com/plugins/MeanderingProgrammer/render-markdown.nvim)
+### nvim-dev
+
++ [nvim-lua/plenary.nvim](https://dotfyle.com/plugins/nvim-lua/plenary.nvim)
++ [MunifTanjim/nui.nvim](https://dotfyle.com/plugins/MunifTanjim/nui.nvim)
++ [folke/lazydev.nvim](https://dotfyle.com/plugins/folke/lazydev.nvim)
+### startup
+
++ [nvimdev/dashboard-nvim](https://dotfyle.com/plugins/nvimdev/dashboard-nvim)
+### syntax
+
++ [nvim-treesitter/nvim-treesitter](https://dotfyle.com/plugins/nvim-treesitter/nvim-treesitter)
+### terminal-integration
+
++ [akinsho/toggleterm.nvim](https://dotfyle.com/plugins/akinsho/toggleterm.nvim)
+### utility
+
++ [folke/noice.nvim](https://dotfyle.com/plugins/folke/noice.nvim)
+
