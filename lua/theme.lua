@@ -20,6 +20,9 @@ local function list_colorschemes()
 	return list
 end
 
+vim.o.background = "dark"
+vim.g.everforest_background = "hard"
+vim.g.everforest_better_performance = 1
 require("themery").setup({
 	themes = list_colorschemes(),
 	livePreview = true,
